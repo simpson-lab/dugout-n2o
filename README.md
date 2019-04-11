@@ -6,3 +6,4 @@ Supplementary data from:
 
 *J. R. Webb, N.M. Hayes, G. L. Simpson, P.R. Leavitt, H.M. Baulch, and K. Finlay.*
 
+[![Data DOI](https://zenodo.org/badge/171565971.svg)](https://zenodo.org/badge/latestdoi/171565971)
